@@ -21,3 +21,4 @@ Run "/sdc check" while holding an item you want to check. A message will appear 
   ***3.*** Go into ***.minecraft***, then ***config***, then ***ChatTriggers*** and then put the file in ***modules*** folder
   
   ***4.*** ***You are done!***
+  https://github.com/GeorgeBezhanyan/DupeChecker/raw/main/SebaDupeChecker.7z
