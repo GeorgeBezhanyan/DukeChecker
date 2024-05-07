@@ -1,4 +1,4 @@
-# DupeChecker
+# SebastianDupeChecker
 
 ## WARNING: 
 
