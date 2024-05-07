@@ -1,4 +1,4 @@
-# SebastianDupeChecker
+# SebaDupeChecker
 
 ## WARNING: 
 
@@ -14,7 +14,7 @@ Run "/sdc check" while holding an item you want to check. A message will appear 
 
 ## DOWNLOAD
 
-You can download Sebastian Dupe Checker by clicking [here](https://github.com/GeorgeBezhanyan/DupeChecker/raw/main/SebaDupeChecker.7z)
+You can download Seba Dupe Checker by clicking [here](https://github.com/GeorgeBezhanyan/DupeChecker/raw/main/SebaDupeChecker.7z)
 
 ## HOW TO INSTALL?
 
